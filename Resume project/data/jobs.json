@@ -1,0 +1,44 @@
+{
+  "roles": [
+    {
+      "title": "Backend Software Engineer",
+      "required_skills": ["Python", "Flask", "REST API", "SQL", "Git", "Docker"],
+      "description": "Build and maintain server-side applications and APIs."
+    },
+    {
+      "title": "Full Stack Developer",
+      "required_skills": ["JavaScript", "React", "Node.js", "HTML", "CSS", "SQL", "Git"],
+      "description": "Develop end-to-end web features across frontend and backend."
+    },
+    {
+      "title": "Data Analyst",
+      "required_skills": ["Python", "SQL", "Excel", "Tableau", "Statistics"],
+      "description": "Analyze data and create reports for business decisions."
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "required_skills": ["Python", "TensorFlow", "PyTorch", "SQL", "Git", "Docker", "Statistics"],
+      "description": "Design and deploy ML models in production."
+    },
+    {
+      "title": "DevOps Engineer",
+      "required_skills": ["Linux", "Docker", "Kubernetes", "AWS", "CI/CD", "Python", "Git"],
+      "description": "Automate infrastructure and improve deployment pipelines."
+    },
+    {
+      "title": "Frontend Developer",
+      "required_skills": ["JavaScript", "React", "HTML", "CSS", "TypeScript", "Git"],
+      "description": "Implement responsive UIs and client-side logic."
+    },
+    {
+      "title": "Cloud Engineer",
+      "required_skills": ["AWS", "Azure", "Docker", "Linux", "Python", "Networking"],
+      "description": "Design and operate cloud-based systems."
+    },
+    {
+      "title": "Software Engineer Intern",
+      "required_skills": ["Python", "Git", "Data Structures", "Algorithms"],
+      "description": "Entry-level software development with mentorship."
+    }
+  ]
+}

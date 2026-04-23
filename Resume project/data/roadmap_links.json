@@ -1,0 +1,704 @@
+{
+  "Python": {
+    "link": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+    "alt_links": [
+      "https://docs.python.org/3/tutorial/",
+      "https://www.youtube.com/watch?v=rfscVS0vtbw"
+    ],
+    "level": "Beginner",
+    "duration": "4-6 weeks"
+  },
+  "JavaScript": {
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "alt_links": [
+      "https://javascript.info/",
+      "https://www.youtube.com/watch?v=PkZNo7MFNFg"
+    ],
+    "level": "Beginner",
+    "duration": "4-8 weeks"
+  },
+  "TypeScript": {
+    "link": "https://www.typescriptlang.org/docs/handbook/intro.html",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=BwuLxPH8IDs",
+      "https://www.freecodecamp.org/news/learn-typescript-beginners-guide/"
+    ],
+    "level": "Intermediate",
+    "duration": "3-5 weeks"
+  },
+  "Java": {
+    "link": "https://dev.java/learn/getting-started/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=eIrMbAQSU34",
+      "https://www.codecademy.com/learn/learn-java"
+    ],
+    "level": "Beginner",
+    "duration": "6-10 weeks"
+  },
+  "C++": {
+    "link": "https://www.learncpp.com/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=vLnPwxZdW4Y",
+      "https://cplusplus.com/doc/tutorial/"
+    ],
+    "level": "Intermediate",
+    "duration": "8-12 weeks"
+  },
+  "C#": {
+    "link": "https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=GhQdlMFylQ8",
+      "https://www.codecademy.com/learn/learn-c-sharp"
+    ],
+    "level": "Intermediate",
+    "duration": "6-10 weeks"
+  },
+  "Go": {
+    "link": "https://go.dev/tour/welcome/1",
+    "alt_links": [
+      "https://gobyexample.com/",
+      "https://www.youtube.com/watch?v=YS4e4q9oBaU"
+    ],
+    "level": "Intermediate",
+    "duration": "4-6 weeks"
+  },
+  "Rust": {
+    "link": "https://doc.rust-lang.org/book/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=BpPEoZW5IiY",
+      "https://rustlings.cool/"
+    ],
+    "level": "Advanced",
+    "duration": "8-14 weeks"
+  },
+  "Ruby": {
+    "link": "https://www.ruby-lang.org/en/documentation/quickstart/",
+    "alt_links": [
+      "https://www.codecademy.com/learn/learn-ruby",
+      "https://www.youtube.com/watch?v=t_ispmWmdjY"
+    ],
+    "level": "Beginner",
+    "duration": "4-6 weeks"
+  },
+  "PHP": {
+    "link": "https://www.php.net/manual/en/tutorial.php",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=OK_JCtrrv-c",
+      "https://www.w3schools.com/php/"
+    ],
+    "level": "Beginner",
+    "duration": "4-6 weeks"
+  },
+  "Swift": {
+    "link": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour",
+    "alt_links": [
+      "https://developer.apple.com/tutorials/swiftui",
+      "https://www.youtube.com/watch?v=comQ1-x2a1Q"
+    ],
+    "level": "Intermediate",
+    "duration": "6-10 weeks"
+  },
+  "Kotlin": {
+    "link": "https://kotlinlang.org/docs/getting-started.html",
+    "alt_links": [
+      "https://developer.android.com/courses",
+      "https://www.youtube.com/watch?v=F9UC9DY-vIU"
+    ],
+    "level": "Intermediate",
+    "duration": "4-8 weeks"
+  },
+  "HTML": {
+    "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML",
+    "alt_links": [
+      "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+      "https://www.youtube.com/watch?v=kUMe1FH4CHE"
+    ],
+    "level": "Beginner",
+    "duration": "1-2 weeks"
+  },
+  "CSS": {
+    "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS",
+    "alt_links": [
+      "https://web.dev/learn/css",
+      "https://www.youtube.com/watch?v=1Rs2ND1ryYc"
+    ],
+    "level": "Beginner",
+    "duration": "2-4 weeks"
+  },
+  "SASS": {
+    "link": "https://sass-lang.com/guide/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=_a5j7KoflTs",
+      "https://www.freecodecamp.org/news/the-beginners-guide-to-sass/"
+    ],
+    "level": "Beginner",
+    "duration": "1-2 weeks"
+  },
+  "Tailwind CSS": {
+    "link": "https://tailwindcss.com/docs/utility-first",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=UBOj6rqRUME",
+      "https://tailwindcss.com/docs/installation"
+    ],
+    "level": "Beginner",
+    "duration": "1-3 weeks"
+  },
+  "Bootstrap": {
+    "link": "https://getbootstrap.com/docs/5.3/getting-started/introduction/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=-qfEOE4vtxE",
+      "https://www.w3schools.com/bootstrap5/"
+    ],
+    "level": "Beginner",
+    "duration": "1-2 weeks"
+  },
+  "React": {
+    "link": "https://react.dev/learn",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=bMknfKXIFA8",
+      "https://www.freecodecamp.org/learn/front-end-development-libraries/"
+    ],
+    "level": "Intermediate",
+    "duration": "4-8 weeks"
+  },
+  "Angular": {
+    "link": "https://angular.dev/tutorials/learn-angular",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=3qBXWUpoPHo",
+      "https://www.freecodecamp.org/news/angular-tutorial-course/"
+    ],
+    "level": "Intermediate",
+    "duration": "6-10 weeks"
+  },
+  "Vue.js": {
+    "link": "https://vuejs.org/tutorial/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=FXpIoQ_rT_c",
+      "https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3"
+    ],
+    "level": "Intermediate",
+    "duration": "4-8 weeks"
+  },
+  "Node.js": {
+    "link": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=Oe421EPjeBE",
+      "https://www.freecodecamp.org/learn/back-end-development-and-apis/"
+    ],
+    "level": "Intermediate",
+    "duration": "3-6 weeks"
+  },
+  "Express.js": {
+    "link": "https://expressjs.com/en/starter/installing.html",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=SccSCuHhOw0",
+      "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs"
+    ],
+    "level": "Intermediate",
+    "duration": "2-4 weeks"
+  },
+  "Next.js": {
+    "link": "https://nextjs.org/learn",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=ZVnjOPwW4ZA",
+      "https://nextjs.org/docs/getting-started/installation"
+    ],
+    "level": "Intermediate",
+    "duration": "4-6 weeks"
+  },
+  "Django": {
+    "link": "https://docs.djangoproject.com/en/stable/intro/tutorial01/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=F5mRW0jo-U4",
+      "https://www.djangoproject.com/start/"
+    ],
+    "level": "Intermediate",
+    "duration": "4-8 weeks"
+  },
+  "Flask": {
+    "link": "https://flask.palletsprojects.com/en/stable/tutorial/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=Z1RJmh_OqeA",
+      "https://www.freecodecamp.org/news/how-to-build-a-web-app-using-pythons-flask-and-google-app-engine/"
+    ],
+    "level": "Beginner",
+    "duration": "2-4 weeks"
+  },
+  "FastAPI": {
+    "link": "https://fastapi.tiangolo.com/tutorial/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=7t2alSnE2-I",
+      "https://realpython.com/fastapi-python-web-apis/"
+    ],
+    "level": "Intermediate",
+    "duration": "2-4 weeks"
+  },
+  "Spring Boot": {
+    "link": "https://spring.io/guides/gs/spring-boot",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=9SGDpanrc8U",
+      "https://www.baeldung.com/spring-boot"
+    ],
+    "level": "Intermediate",
+    "duration": "6-10 weeks"
+  },
+  "SQL": {
+    "link": "https://www.w3schools.com/sql/",
+    "alt_links": [
+      "https://sqlbolt.com/",
+      "https://www.youtube.com/watch?v=HXV3zeQKqGY"
+    ],
+    "level": "Beginner",
+    "duration": "3-5 weeks"
+  },
+  "NoSQL": {
+    "link": "https://www.mongodb.com/nosql-explained",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=xh4gy1lbL2k",
+      "https://www.freecodecamp.org/news/nosql-databases-5f6639ed9574/"
+    ],
+    "level": "Intermediate",
+    "duration": "2-4 weeks"
+  },
+  "MongoDB": {
+    "link": "https://learn.mongodb.com/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=ofme2o29ngU",
+      "https://www.freecodecamp.org/learn/back-end-development-and-apis/"
+    ],
+    "level": "Intermediate",
+    "duration": "3-5 weeks"
+  },
+  "PostgreSQL": {
+    "link": "https://www.postgresqltutorial.com/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=qw--VYLpxG4",
+      "https://www.postgresql.org/docs/current/tutorial.html"
+    ],
+    "level": "Intermediate",
+    "duration": "3-6 weeks"
+  },
+  "MySQL": {
+    "link": "https://dev.mysql.com/doc/mysql-getting-started/en/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+      "https://www.mysqltutorial.org/"
+    ],
+    "level": "Beginner",
+    "duration": "3-5 weeks"
+  },
+  "Redis": {
+    "link": "https://redis.io/docs/get-started/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=jgpVdJB2sKQ",
+      "https://university.redis.io/"
+    ],
+    "level": "Intermediate",
+    "duration": "2-3 weeks"
+  },
+  "Elasticsearch": {
+    "link": "https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=C3tlMqaNSaI",
+      "https://www.elastic.co/training/free"
+    ],
+    "level": "Advanced",
+    "duration": "4-6 weeks"
+  },
+  "Docker": {
+    "link": "https://docs.docker.com/get-started/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=fqMOX6JJhGo",
+      "https://www.freecodecamp.org/news/the-docker-handbook/"
+    ],
+    "level": "Beginner",
+    "duration": "2-4 weeks"
+  },
+  "Kubernetes": {
+    "link": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=X48VuDVv0do",
+      "https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours/"
+    ],
+    "level": "Intermediate",
+    "duration": "4-8 weeks"
+  },
+  "AWS": {
+    "link": "https://aws.amazon.com/getting-started/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=k1RI5locZE4",
+      "https://explore.skillbuilder.aws/learn"
+    ],
+    "level": "Intermediate",
+    "duration": "6-12 weeks"
+  },
+  "Azure": {
+    "link": "https://learn.microsoft.com/en-us/training/azure/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=NKEFWlXQ2RE",
+      "https://learn.microsoft.com/en-us/certifications/azure-fundamentals/"
+    ],
+    "level": "Intermediate",
+    "duration": "6-12 weeks"
+  },
+  "Google Cloud": {
+    "link": "https://cloud.google.com/docs/get-started",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=kzKFuHk8ovk",
+      "https://www.cloudskillsboost.google/"
+    ],
+    "level": "Intermediate",
+    "duration": "6-12 weeks"
+  },
+  "GCP": {
+    "link": "https://cloud.google.com/docs/get-started",
+    "alt_links": [
+      "https://www.cloudskillsboost.google/",
+      "https://www.youtube.com/watch?v=kzKFuHk8ovk"
+    ],
+    "level": "Intermediate",
+    "duration": "6-12 weeks"
+  },
+  "Firebase": {
+    "link": "https://firebase.google.com/docs/guides",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=9kRgVxULbag",
+      "https://fireship.io/courses/firebase/"
+    ],
+    "level": "Beginner",
+    "duration": "2-4 weeks"
+  },
+  "Git": {
+    "link": "https://git-scm.com/book/en/v2",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=RGOj5yH7evk",
+      "https://learngitbranching.js.org/"
+    ],
+    "level": "Beginner",
+    "duration": "1-3 weeks"
+  },
+  "Linux": {
+    "link": "https://linuxjourney.com/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=sWbUDq4S6Y8",
+      "https://www.freecodecamp.org/news/the-linux-commands-handbook/"
+    ],
+    "level": "Beginner",
+    "duration": "4-6 weeks"
+  },
+  "Unix": {
+    "link": "https://www.tutorialspoint.com/unix/index.htm",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=LnKoncbQBsM",
+      "https://linuxjourney.com/"
+    ],
+    "level": "Beginner",
+    "duration": "4-6 weeks"
+  },
+  "Bash": {
+    "link": "https://www.gnu.org/software/bash/manual/bash.html",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=tK9Oc6AEnR4",
+      "https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/"
+    ],
+    "level": "Beginner",
+    "duration": "2-4 weeks"
+  },
+  "Shell Scripting": {
+    "link": "https://www.shellscript.sh/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=cQepf9fY6cE",
+      "https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/"
+    ],
+    "level": "Beginner",
+    "duration": "3-5 weeks"
+  },
+  "Networking": {
+    "link": "https://www.cloudflare.com/learning/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=qiQR5rTSshw",
+      "https://www.freecodecamp.org/news/computer-networks-and-how-to-actually-understand-them/"
+    ],
+    "level": "Intermediate",
+    "duration": "6-10 weeks"
+  },
+  "REST API": {
+    "link": "https://restfulapi.net/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=lsMQRaeKNDk",
+      "https://www.freecodecamp.org/news/rest-apis/"
+    ],
+    "level": "Beginner",
+    "duration": "2-3 weeks"
+  },
+  "GraphQL": {
+    "link": "https://graphql.org/learn/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=ed8SzALpx1Q",
+      "https://www.howtographql.com/"
+    ],
+    "level": "Intermediate",
+    "duration": "3-5 weeks"
+  },
+  "Machine Learning": {
+    "link": "https://www.coursera.org/learn/machine-learning",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=i_LwzRVP7bg",
+      "https://www.freecodecamp.org/learn/machine-learning-with-python/"
+    ],
+    "level": "Intermediate",
+    "duration": "8-14 weeks"
+  },
+  "Deep Learning": {
+    "link": "https://www.deeplearning.ai/courses/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=aircAruvnKk",
+      "https://www.fast.ai/"
+    ],
+    "level": "Advanced",
+    "duration": "10-16 weeks"
+  },
+  "Natural Language Processing": {
+    "link": "https://huggingface.co/learn/nlp-course",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=fOvTtapxa9c",
+      "https://www.coursera.org/specializations/natural-language-processing"
+    ],
+    "level": "Advanced",
+    "duration": "8-14 weeks"
+  },
+  "Computer Vision": {
+    "link": "https://www.coursera.org/learn/convolutional-neural-networks",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=01sAkU_NvOY",
+      "https://pyimagesearch.com/start-here/"
+    ],
+    "level": "Advanced",
+    "duration": "8-12 weeks"
+  },
+  "TensorFlow": {
+    "link": "https://www.tensorflow.org/tutorials",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=tPYj3fFJGjk",
+      "https://www.freecodecamp.org/learn/machine-learning-with-python/"
+    ],
+    "level": "Intermediate",
+    "duration": "6-10 weeks"
+  },
+  "PyTorch": {
+    "link": "https://pytorch.org/tutorials/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=V_xro1bcAuA",
+      "https://www.learnpytorch.io/"
+    ],
+    "level": "Intermediate",
+    "duration": "6-10 weeks"
+  },
+  "Scikit-learn": {
+    "link": "https://scikit-learn.org/stable/tutorial/index.html",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=pqNCD_5r0IU",
+      "https://www.datacamp.com/tutorial/machine-learning-python"
+    ],
+    "level": "Intermediate",
+    "duration": "4-6 weeks"
+  },
+  "Pandas": {
+    "link": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=vmEHCJofslg",
+      "https://www.kaggle.com/learn/pandas"
+    ],
+    "level": "Beginner",
+    "duration": "2-4 weeks"
+  },
+  "NumPy": {
+    "link": "https://numpy.org/doc/stable/user/absolute_beginners.html",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=QUT1VHiLmmI",
+      "https://www.w3schools.com/python/numpy/"
+    ],
+    "level": "Beginner",
+    "duration": "1-3 weeks"
+  },
+  "Data Structures": {
+    "link": "https://www.geeksforgeeks.org/data-structures/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=8hly31xKli0",
+      "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/"
+    ],
+    "level": "Beginner",
+    "duration": "6-10 weeks"
+  },
+  "Algorithms": {
+    "link": "https://www.khanacademy.org/computing/computer-science/algorithms",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=8hly31xKli0",
+      "https://neetcode.io/"
+    ],
+    "level": "Intermediate",
+    "duration": "8-12 weeks"
+  },
+  "Tableau": {
+    "link": "https://www.tableau.com/learn/training",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=aHaOIvR00So",
+      "https://public.tableau.com/app/resources/learn"
+    ],
+    "level": "Beginner",
+    "duration": "3-5 weeks"
+  },
+  "Power BI": {
+    "link": "https://learn.microsoft.com/en-us/power-bi/fundamentals/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=AGrl-H87pRU",
+      "https://learn.microsoft.com/en-us/training/powerplatform/power-bi"
+    ],
+    "level": "Beginner",
+    "duration": "3-5 weeks"
+  },
+  "Excel": {
+    "link": "https://support.microsoft.com/en-us/excel",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=Vl0H-qTclOg",
+      "https://www.freecodecamp.org/news/learn-microsoft-excel/"
+    ],
+    "level": "Beginner",
+    "duration": "2-4 weeks"
+  },
+  "Statistics": {
+    "link": "https://www.khanacademy.org/math/statistics-probability",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=xxpc-HPKN28",
+      "https://www.coursera.org/specializations/statistics"
+    ],
+    "level": "Beginner",
+    "duration": "4-8 weeks"
+  },
+  "CI/CD": {
+    "link": "https://www.atlassian.com/continuous-delivery",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=scEDHsr3APg",
+      "https://www.freecodecamp.org/news/what-is-ci-cd/"
+    ],
+    "level": "Intermediate",
+    "duration": "3-6 weeks"
+  },
+  "Jenkins": {
+    "link": "https://www.jenkins.io/doc/tutorials/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=FX322RVNGj4",
+      "https://www.tutorialspoint.com/jenkins/index.htm"
+    ],
+    "level": "Intermediate",
+    "duration": "3-5 weeks"
+  },
+  "GitHub Actions": {
+    "link": "https://docs.github.com/en/actions/learn-github-actions",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=R8_veQiYBjI",
+      "https://lab.github.com/"
+    ],
+    "level": "Beginner",
+    "duration": "1-3 weeks"
+  },
+  "Terraform": {
+    "link": "https://developer.hashicorp.com/terraform/tutorials",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=7xngnjfIlK4",
+      "https://learn.hashicorp.com/terraform"
+    ],
+    "level": "Intermediate",
+    "duration": "4-6 weeks"
+  },
+  "Ansible": {
+    "link": "https://docs.ansible.com/ansible/latest/getting_started/index.html",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=1id6ERvfozo",
+      "https://www.redhat.com/en/topics/automation/learning-ansible-tutorial"
+    ],
+    "level": "Intermediate",
+    "duration": "3-5 weeks"
+  },
+  "Apache Kafka": {
+    "link": "https://kafka.apache.org/documentation/#gettingStarted",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=06iRM1Ghr1k",
+      "https://www.confluent.io/learn/apache-kafka/"
+    ],
+    "level": "Advanced",
+    "duration": "4-8 weeks"
+  },
+  "RabbitMQ": {
+    "link": "https://www.rabbitmq.com/tutorials",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=NQ3fZtyXji0",
+      "https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html"
+    ],
+    "level": "Intermediate",
+    "duration": "2-4 weeks"
+  },
+  "Agile": {
+    "link": "https://www.atlassian.com/agile",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=502ILHjX9EE",
+      "https://www.coursera.org/learn/agile-development"
+    ],
+    "level": "Beginner",
+    "duration": "2-3 weeks"
+  },
+  "Scrum": {
+    "link": "https://www.scrum.org/resources/what-scrum-module",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=9TycLR0TqFA",
+      "https://www.atlassian.com/agile/scrum"
+    ],
+    "level": "Beginner",
+    "duration": "1-2 weeks"
+  },
+  "Jira": {
+    "link": "https://www.atlassian.com/software/jira/guides/getting-started/introduction",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=uM_m6EzMg3k",
+      "https://university.atlassian.com/student/catalog"
+    ],
+    "level": "Beginner",
+    "duration": "1-2 weeks"
+  },
+  "Microservices": {
+    "link": "https://microservices.io/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=CdBtNQZH8a4",
+      "https://www.freecodecamp.org/news/microservices-architecture-for-beginners/"
+    ],
+    "level": "Advanced",
+    "duration": "6-10 weeks"
+  },
+  "OAuth": {
+    "link": "https://www.oauth.com/",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=KT8ybowdyr0",
+      "https://developer.okta.com/docs/concepts/oauth-openid/"
+    ],
+    "level": "Intermediate",
+    "duration": "2-3 weeks"
+  },
+  "JWT": {
+    "link": "https://jwt.io/introduction",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=7Q17ubqLfaM",
+      "https://www.freecodecamp.org/news/how-to-sign-and-validate-json-web-tokens/"
+    ],
+    "level": "Intermediate",
+    "duration": "1-2 weeks"
+  },
+  "WebSockets": {
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API",
+    "alt_links": [
+      "https://www.youtube.com/watch?v=1BfCnjr_Vjg",
+      "https://javascript.info/websocket"
+    ],
+    "level": "Intermediate",
+    "duration": "1-3 weeks"
+  }
+}

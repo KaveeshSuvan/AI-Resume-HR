@@ -1,0 +1,10 @@
+﻿1. Learn Docker -> https://docs.docker.com/get-started/ [Beginner | 2-4 weeks]
+2. Learn Kubernetes -> https://kubernetes.io/docs/tutorials/kubernetes-basics/ [Intermediate | 4-8 weeks]
+3. Learn AWS -> https://aws.amazon.com/getting-started/ [Intermediate | 6-12 weeks]
+4. Learn SQL -> https://www.w3schools.com/sql/ [Beginner | 3-5 weeks]
+5. Learn CI/CD -> https://www.atlassian.com/continuous-delivery [Intermediate | 3-6 weeks]
+6. Learn TypeScript -> https://www.typescriptlang.org/docs/handbook/intro.html [Intermediate | 3-5 weeks]
+
+=== MATCH SCORE: 33.33% ===
+Skills: CSS, Flask, Git, HTML, Java, JavaScript, Node.js, Python, REST API, React
+Missing: Docker, Kubernetes, AWS, SQL, CI/CD, TypeScript
